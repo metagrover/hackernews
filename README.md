@@ -1,6 +1,6 @@
 # Hacker News Reader
 
-Progressive Web App for reading top hacker news stories
+Progressive web app for reading top hacker news stories - [View Demo](https://hn-reader.netlify.com/)
 
 ### Features
 
@@ -8,6 +8,10 @@ Progressive Web App for reading top hacker news stories
 -   Works offline
 -   Built-in caching support
 -   Mobile compatible
+
+### Lighthouse scores
+
+![Lighthouse metrics](https://i.imgur.com/M6w2G3K.png)
 
 ### Development setup
 
