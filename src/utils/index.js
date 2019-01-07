@@ -37,7 +37,7 @@ export async function getStoryById(id) {
 const format = (time, unit) => (time > 1 ? `${time} ${unit}s ago` : `${time} ${unit} ago`);
 
 /**
- * parses the unix time into closest minutes/hours/seconds
+ * parses the unix time into closest days/hours/minutes
  * @param {number} time
  */
 export function parseTime(time) {
