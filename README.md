@@ -1,6 +1,6 @@
 # Hacker News Reader
 
-Progressive web app for reading top hacker news stories - [View Demo](https://hn-reader.netlify.com/)
+Progressive web app for reading top hacker news stories - [View Demo](https://hacknews.netlify.com/)
 
 ### Features
 
